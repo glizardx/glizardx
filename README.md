@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a7a3c,100:145f2e&height=120&section=header&text=Guilherme%20Lizardo&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-### Data Analyst transitioning into backend development
+### Data Analyst who builds the tools he needs — from dashboards to full-stack systems
 
 *Building tools that actually get used — dashboards, automations and full-stack systems around real business problems*
 
