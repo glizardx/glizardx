@@ -39,7 +39,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### ![](https://img.shields.io/badge/FULLSTACK-1a7a3c?style=flat-square) Noise Dosimetry Report System
+### ![](https://img.shields.io/badge/FULLSTACK-1a7a3c?style=flat-square) [Noise Dosimetry Report System](https://github.com/glizardx/ecosegme)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -63,12 +63,12 @@ End-to-end platform for an occupational health company that replaced a fully man
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-Automated tool to extract and archive messages, images and files from Microsoft Teams.
+Automated tool to extract and archive messages, images and files from Microsoft Teams — built to preserve institutional communication that the platform doesn't natively export.
 
 - Intercepts Teams' internal API calls across Microsoft domains (graph.microsoft.com, chatsvcagg, substrate.office.com) instead of scraping the DOM
 - SQLite storage with full deduplication
-- DOM fallback for content not captured via API
-- Daily scheduled execution
+- DOM fallback for content not captured via API interception
+- Daily scheduled execution via `schedule`
 
 </td>
 </tr>
