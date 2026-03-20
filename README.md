@@ -57,7 +57,7 @@ End-to-end platform for an occupational health company that replaced a fully man
 </td>
 <td width="50%" valign="top">
 
-### ![](https://img.shields.io/badge/AUTOMATION-2EAD33?style=flat-square) Microsoft Teams Scraper
+### ![](https://img.shields.io/badge/AUTOMATION-2EAD33?style=flat-square) [Microsoft Teams Scraper](https://github.com/glizardx/teams-scraper)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
