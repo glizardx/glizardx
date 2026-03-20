@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a7a3c,100:145f2e&height=120&section=header&text=Guilherme%20Lizardo&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-### Data Analyst & Backend Developer
+### Data Analyst transitioning into backend development
 
-*Turning operational chaos into structured systems*
+*Building tools that actually get used — dashboards, automations and full-stack systems around real business problems*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-glizardx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/guilherme-lizardo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme--lizardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/guilherme-lizardo)
 [![Email](https://img.shields.io/badge/Gmail-glizardo171-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glizardo171@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-glizardx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/glizardx)
 
@@ -46,10 +46,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-End-to-end platform for an occupational health company that replaced a fully manual reporting process with a structured digital workflow.
+End-to-end platform deployed and used in production, replacing a fully manual reporting process for an occupational health company.
 
 - PDF parser with multi-pattern confidence scoring and name similarity matching
-- Automated report generation compliant with NR-15 / NHO-01
+- Automated report generation compliant with NR-15 / NHO-01 regulations
 - SHA-256 hashing and immutable audit trail
 - JWT auth with role-based access control
 - 80 reports/month · generation time cut from 2h to 15 min
@@ -65,10 +65,10 @@ End-to-end platform for an occupational health company that replaced a fully man
 
 Automated tool to extract and archive messages, images and files from Microsoft Teams — built to preserve institutional communication that the platform doesn't natively export.
 
-- Intercepts Teams' internal API calls across Microsoft domains (graph.microsoft.com, chatsvcagg, substrate.office.com) instead of scraping the DOM
+- Intercepts Teams' internal API calls (graph.microsoft.com, chatsvcagg, substrate.office.com) instead of scraping the DOM
 - SQLite storage with full deduplication
-- DOM fallback for content not captured via API interception
-- Daily scheduled execution via `schedule`
+- DOM fallback for content not captured via API
+- Daily scheduled execution + local web viewer
 
 </td>
 </tr>
