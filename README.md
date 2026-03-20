@@ -6,7 +6,7 @@
 
 *Turning operational chaos into structured systems*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-glizardx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/glizardx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-glizardx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/guilherme-lizardo)
 [![Email](https://img.shields.io/badge/Gmail-glizardo171-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glizardo171@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-glizardx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/glizardx)
 
