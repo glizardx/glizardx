@@ -4,8 +4,6 @@
 
 ### Data Analyst who builds the tools he needs — from dashboards to full-stack systems
 
-*Building tools that actually get used — dashboards, automations and full-stack systems around real business problems*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme--lizardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/guilherme-lizardo)
 [![Email](https://img.shields.io/badge/Gmail-glizardo171-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glizardo171@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-glizardx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/glizardx)
@@ -46,13 +44,13 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-End-to-end platform deployed and used in production, replacing a fully manual reporting process for an occupational health company.
+End-to-end platform deployed in production for an occupational health company. Replaced a fully manual process where each report took 5 days to deliver — directly impacting cash flow since clients pay 60–90 days after delivery.
 
 - PDF parser with multi-pattern confidence scoring and name similarity matching
 - Automated report generation compliant with NR-15 / NHO-01 regulations
 - SHA-256 hashing and immutable audit trail
 - JWT auth with role-based access control
-- 80 reports/month · generation time cut from 2h to 15 min
+- 80 reports/month · 5-day cycle reduced to under 15 minutes
 
 </td>
 <td width="50%" valign="top">
@@ -63,7 +61,7 @@ End-to-end platform deployed and used in production, replacing a fully manual re
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-Automated tool to extract and archive messages, images and files from Microsoft Teams — built to preserve institutional communication that the platform doesn't natively export.
+Automated tool to extract and archive messages from Microsoft Teams — built to preserve institutional communication that the platform doesn't natively export. Archived 10,000+ messages across channels and group chats.
 
 - Intercepts Teams' internal API calls (graph.microsoft.com, chatsvcagg, substrate.office.com) instead of scraping the DOM
 - SQLite storage with full deduplication
@@ -80,12 +78,12 @@ Automated tool to extract and archive messages, images and files from Microsoft 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-Analytical dashboard for monitoring operational quality KPIs across a financial services operation.
+Analytical dashboard monitoring quality KPIs across a BPO operation with 190+ agents for a financial services client.
 
 - Dimensional data model consolidating data from multiple sources
 - Individual and team-level performance indicators with drill-down
 - Automated refresh, eliminating manual updates
-- Used by coordination and management for decision-making
+- Used daily by coordination and management for decision-making and action plans
 
 </td>
 <td width="50%" valign="top">
@@ -95,11 +93,11 @@ Analytical dashboard for monitoring operational quality KPIs across a financial 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-Risk analysis of document deviations across financial flows, mapped against internal compliance manuals.
+Structured risk analysis of document deviations across financial flows, mapped against internal compliance manuals.
 
 - Pattern analysis across 9 flow types (PF, PJ, income, address, assets...)
-- Deviations translated into financial and regulatory risks
-- Executive deliverable with prioritized corrective actions
+- Deviations translated into regulatory and financial risk categories
+- Executive deliverable with evidence documentation and prioritized corrective actions
 
 </td>
 </tr>
