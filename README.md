@@ -77,6 +77,8 @@ Automated tool to extract and archive messages from Microsoft Teams — built to
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query M](https://img.shields.io/badge/Power%20Query%20M-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 Analytical dashboard monitoring quality KPIs across a BPO operation with 190+ agents for a financial services client.
 
@@ -92,6 +94,8 @@ Analytical dashboard monitoring quality KPIs across a BPO operation with 190+ ag
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query M](https://img.shields.io/badge/Power%20Query%20M-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 Structured risk analysis of document deviations across financial flows, mapped against internal compliance manuals.
 
