@@ -39,7 +39,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### ![](https://img.shields.io/badge/FULLSTACK-1a7a3c?style=flat-square) [Noise Dosimetry Report System](https://github.com/glizardx/ecosegme)
+### ![](https://img.shields.io/badge/FULLSTACK-1a7a3c?style=flat-square) [Noise Dosimetry Report System](https://github.com/glizardx/dosimetry-system)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
