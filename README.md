@@ -105,6 +105,26 @@ Structured risk analysis of document deviations across financial flows, mapped a
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ![](https://img.shields.io/badge/ACADEMIC-150458?style=flat-square) [Credit Card Default Analysis](https://github.com/glizardx/credit-card-analysis)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+
+Exploratory analysis of 30,000 credit card clients from a Taiwanese bank — academic project for the Data Science & AI program at PUCRS.
+
+- 22.1% default rate identified across 25 variables
+- Demographic and financial pattern analysis (age, gender, education, credit limit)
+- Repayment behavior tracked over 6 consecutive months (Apr–Sep 2005)
+- Dataset: UCI ML Repository · CC BY 4.0
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 ---
