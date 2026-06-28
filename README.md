@@ -14,11 +14,31 @@ My current focus is to combine operational experience with data analysis to buil
 
 ## Skills
 
-- Python: Pandas, NumPy, Matplotlib
+- Python: pandas, NumPy, Matplotlib, Streamlit
 - SQL: analytical queries, joins, aggregations, segmentation
+- Databases: DuckDB, PostgreSQL
 - Power BI: dashboards, DAX, Power Query
 - Excel: analysis, controls and reporting
-- Backend/Automation: FastAPI, PostgreSQL, process automation
+- Backend/Automation: FastAPI, process automation
+
+## Featured Project
+
+### AuditFlow Analytics
+
+End-to-end data project for operational quality and risk monitoring using synthetic data.
+
+Built with Python, pandas, SQL, DuckDB, Streamlit and Plotly.
+
+The project includes:
+
+- Data cleaning and anonymization pipeline
+- Synthetic data generation for public portfolio use
+- SQL-based analytical metrics
+- Interactive Streamlit dashboard
+- Operational volume vs quality risk comparison
+- Documentation, data dictionary and GitHub publishing checklist
+
+Repository: https://github.com/glizardx/auditflow-analytics
 
 ## Current Projects
 
@@ -29,6 +49,7 @@ Exploratory analysis of credit card client data focused on default behavior, rep
 Status: in progress.
 
 Next steps:
+
 - Add SQL analysis
 - Add predictive model
 - Add executive report
@@ -39,6 +60,7 @@ Next steps:
 Full-stack system for controlled report generation, auditability and operational workflow automation.
 
 Relevant concepts:
+
 - Access control
 - Audit trail
 - Report integrity
