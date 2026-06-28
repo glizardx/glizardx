@@ -2,24 +2,24 @@
 
 ### Data Analyst in transition to Risk, Fraud Prevention and Financial Analytics
 
-I work with quality inspection and operational controls, and I am building a data portfolio focused on financial risk, fraud prevention and banking analytics.
+I work with quality inspection, operational controls and data analysis. I am building a portfolio focused on risk analytics, fraud prevention, banking operations and audit controls.
 
-My current focus is to combine operational experience with data analysis to build practical solutions for:
+My goal is to combine practical operational experience with data skills to build useful analytical solutions for:
 
 - Credit risk analysis
 - Fraud pattern detection
 - Operational risk monitoring
 - Compliance and audit controls
-- Business dashboards and analytical reports
+- Business dashboards and analytical reporting
 
 ## Skills
 
 - Python: pandas, NumPy, Matplotlib, Streamlit
-- SQL: analytical queries, joins, aggregations, segmentation
+- SQL: analytical queries, joins, aggregations and segmentation
 - Databases: DuckDB, PostgreSQL
-- Power BI: dashboards, DAX, Power Query
+- Data Visualization: Streamlit, Plotly, Power BI
 - Excel: analysis, controls and reporting
-- Backend/Automation: FastAPI, process automation
+- Backend and Automation: FastAPI, process automation
 
 ## Featured Project
 
@@ -29,16 +29,16 @@ End-to-end data project for operational quality and risk monitoring using synthe
 
 Built with Python, pandas, SQL, DuckDB, Streamlit and Plotly.
 
-The project includes:
+Repository: [AuditFlow Analytics](https://github.com/glizardx/auditflow-analytics)
+
+Highlights:
 
 - Data cleaning and anonymization pipeline
 - Synthetic data generation for public portfolio use
 - SQL-based analytical metrics
 - Interactive Streamlit dashboard
 - Operational volume vs quality risk comparison
-- Documentation, data dictionary and GitHub publishing checklist
-
-Repository: https://github.com/glizardx/auditflow-analytics
+- Data dictionary and GitHub publishing checklist
 
 ## Current Projects
 
@@ -67,8 +67,13 @@ Relevant concepts:
 - Process automation
 - Operational risk controls
 
-## What I am building next
+## What I Am Building Next
 
 - Fraud transaction monitoring project
 - Pix/mule account risk analysis using synthetic data
 - Power BI dashboard for risk indicators
+- SQL case studies for risk and operations analytics
+
+## Contact
+
+GitHub: [github.com/glizardx](https://github.com/glizardx)
